@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        table{
+            width: 800px;
+            height:400px;
+        }
+    </style>
+</head>
+<body>
+    <h1>BMW Cars</h1>
+    <p>Bayerische Motoren Werke AG, trading as BMW Group (commonly abbreviated to BMW (German pronunciation: [ˌbeːʔɛmˈveː] ⓘ), sometimes anglicised as Bavarian Motor Works), is a German multinational manufacturer of luxury vehicles and motorcycles headquartered in Munich, Bavaria, Germany. The company was founded in 1916 as a manufacturer of aircraft engines, which it produced from 1917 to 1918 and again from 1933 to 1945 creating engines for aircraft that were used in the Second World War.</p>
+    <p>The company's automobiles are marketed under the BMW, Mini and Rolls-Royce brands, and motorcycles are marketed under the BMW Motorrad brand. In 2023, BMW was the world's ninth-largest producer of motor vehicles, and the 6th largest by revenue,[3] with 2,555,341 vehicles produced in that year alone.[4] In 2023, the company was ranked 46th in the Forbes Global 2000.[5] The company has significant motor-sport history, especially in touring cars, sports cars, and the Isle of Man TT.</p>
+    <p>BMW is headquartered in Munich and produces motor vehicles in Germany, the United Kingdom, the United States, Brazil, Mexico, South Africa, India, China, and previously also in the Netherlands (ceased in 2023).[6] The Quandt family [de] is a long-term shareholder of the company, following investments by the brothers Herbert and Harald Quandt in 1959 that saved BMW from bankruptcy, with the remaining shares owned by the public.</p>
+    <center><img src="https://th.bing.com/th?id=OIP.jN1VzYMeAJNQI35yRZnapgHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2" alt=""></center>
+    <br>
+    <h2>History of BMW Cars</h2>
+    <p>The Otto Flugmaschinenfabrik was founded in 1910 by Gustav Otto in the Kingdom of Bavaria, which was a state of the German Empire. The firm was reorganized on 7 March 1916 into Bayerische Flugzeugwerke AG. This company was then renamed to Bayerische Motoren Werke (BMW) in 1922. However, the name BMW dates back to 1913, when a company to use the name was founded by Karl Rapp initially as Rapp Motorenwerke. The name and Rapp Motorenwerke's engine-production assets were transferred to Bayerische Flugzeugwerke in 1922, who adopted the name the same year.[7] BMW's first product was produced for fighter aircraft of the Luftstreitkräfte. It was a straight-six aircraft engine called the BMW IIIa, designed in the spring of 1917 by engineer Max Friz. Following the end of World War I, BMW remained in business by producing motorcycle engines, agricultural equipment, household items, and railway brakes. The company produced its first motorcycle, the BMW R 32, in 1923.</p>
+    <center><img src="https://th.bing.com/th?id=OIP.7DBT2dubly_I7BjXANZVZQHaJl&w=219&h=284&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2" alt=""></center>
+    <p>BMW became an automobile manufacturer in 1928 when it purchased Fahrzeugfabrik Eisenach, which, at the time, built the Austin 7 under licence from Dixi.[8] The first car sold as a BMW was a rebadged BMW Dixi called the BMW 3/15, following BMW's acquisition of the car manufacturer Automobilwerk Eisenach. Throughout the 1930s, BMW expanded its range into sports cars and larger luxury cars.</p>
+    <p>Aircraft engines, motorcycles, and automobiles would be BMW's main products until World War II. During the war, BMW concentrated on the BMW 801 aircraft engine using as many as 40,000 slave laborers.[11] These consisted primarily of prisoners from Nazi concentration camps, most prominently Dachau. Motorcycles remained as a side-line and automobile manufacture ceased altogether.</p>
+    <img width="1200px" src="https://www.bmw.com/content/dam/bmw/common/topics/fascination-bmw/bmw-luxury-class/bmw-7series-sedan-gklplus-cp-desktop.jpg" alt="">
+    <p>BMW's factories were heavily bombed during the war and its remaining West German facilities were banned from producing motor vehicles or aircraft after the war. Again, the company survived by making pots, pans, and bicycles. In 1948, BMW restarted motorcycle production. BMW resumed car production in Bavaria in 1952 with the BMW 501 luxury saloon. The range of cars was expanded in 1955, through the production of the cheaper Isetta microcar under licence. Slow sales of luxury cars and small profit margins from microcars, meant BMW was in serious financial trouble and in 1959 the company was nearly taken over by rival Daimler-Benz.</p>
+    <p>A large investment in BMW by Herbert Quandt and Harald Quandt resulted in the company surviving as a separate entity. Günther Quandt was a well-known German industrialist and joined the Nazi party in 1933; he made a fortune arming the German Wehrmacht, manufacturing weapons and batteries.[14] Many of his enterprises were appropriated from Jewish owners under duress with minimal compensation. At least three of his enterprises made extensive use of slave laborers, as many as 50,000 in all.[15] One of his battery factories had its own on-site concentration camp, complete with gallows. Life expectancy for laborers was six months.[15][16] While Quandt and BMW were not directly connected during the war, funds amassed in the Nazi era by his father allowed Herbert Quandt to buy BMW.</p>
+    <br>
+    <h2>Slogan</h2>
+    <p>The slogan 'The Ultimate Driving Machine' was first used in North America in 1974.[40][41] In 2010, this long-lived campaign was mostly supplanted by a campaign intended to make the brand more approachable and to better appeal to women, 'Joy'. By 2012 BMW had returned to 'The Ultimate Driving Machine'.</p>
+    <img src="https://th.bing.com/th/id/OIP.qwfT_jgEXfza8lc_1b6dvAHaE8?w=266&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7" alt="">
+    <br>
+    <h2>Logo</h2>
+    <p>The circular blue and white BMW logo or roundel evolved from the circular Rapp Motorenwerke company logo, which featured a black ring bearing the company name surrounding the company logo,[34] an image of a horse head on a plinth. BMW retained Rapp's black ring inscribed with the company name, but the interior of the ring is quartered blue and white, reminiscent of the coat of arms and flag of Bavaria (which in turn are based on the arms of the historic House of Wittelsbach, which ruled Bavaria for many centuries).[34] The logo does not bear the distinctive lozenge shape found on the coat of arms, however, as local laws at the time it was introduced forbade the use of state coats of arms on commercial logos.</p>
+    <p>A persistent myth claims that the logo is based on the image of an airplane propeller spinning in a blue sky. This myth likely stems from a 1929 BMW advertisement that depicted the logo superimposed on a rotating propeller. However, the logo predates that advertisement by 12 years.</p>
+    <p>The current iteration of the logo was introduced in 2020,[37] removing 3D effects that had been used in previous renderings of the logo while removing the black outline encircling the rondel. The logo is used for BMW's branding communications but it is not used on vehicles.</p>
+    <img height="650px" width="1250px" src="https://cdn.wallpapersafari.com/65/63/okTysC.jpg" alt="">
+    <br>
+    <h2>BMW Logos with their years</h2>
+    <center><img height="450px" width="450px" src="https://car-brand-names.com/wp-content/uploads/2015/04/BMW-Logo-history.png" alt=""></center>
+    <br>
+    <h2>The Legacy of BMW</h2>
+       <p>When it comes to cars that offer the ultimate driving experience, few brands can compete with BMW. Known for its precise engineering, powerful engines, and luxurious designs, BMW has earned a reputation as the best car ever engineered for driving enthusiasts. But what makes BMW stand out from the crowd? This article will explore the history, innovation, and unique features that have made BMW a favorite among those who truly love to drive.</p>
+    <img height="600px" width="1200px" src="https://i.pinimg.com/originals/56/21/2e/56212ed20de5e8a4f0c829b7dea1b014.jpg" alt="">
+
+    <br>
+    <h2>Recent BMW Car Models with their year and price</h2>
+    <center><table border="20px">
+        <tr>
+        <th>MODEL</th>
+        <th>YEAR</th>
+        <th>PRICE</th>
+        </tr>
+        <tr>
+            <td>BMW 3 Series</td>
+            <td>2024</td>
+            <td>$42,000</td>
+        </tr>
+        <tr>
+            <td>BMW X5</td>
+            <td>2023</td>
+            <td>$60,000</td>
+        </tr>
+        <tr>
+            <td>BMW M4</td>
+            <td>2024</td>
+            <td>$72,000</td>
+        </tr>
+        <tr>
+            <td>BMW i4</td>
+            <td>2024</td>
+            <td>$55,000</td>
+        </tr>
+        <tr>
+            <td>BMW 7 Series</td>
+            <td>2023</td>
+            <td>$95,000</td>
+        </tr>
+
+    </table></center>
+    <h2>BMW 3 Series Features</h2>
+    <ul>
+      <li>Engine: Inline 4 Turbo</li>
+      <li>Horsepower: 255 hp</li>
+      <li>Price: $42,000</li>
+      <li>Fuel Efficiency: 26 city / 36 highway MPG</li>
+      <li>Available in sedan and sports variants</li>
+      <li>Standard 8-speed automatic transmission</li>
+      <li>Advanced driver assistance features (lane keep assist, adaptive cruise control)</li>
+  </ul>
+  <h2>BMW X5 Features</h2>
+  <ul>
+    <li>Engine: 3.0L I6 Turbocharged</li>
+    <li>Horsepower: 335 hp</li>
+    <li>Price: $60,000</li>
+    <li>Fuel Efficiency: 21 city / 27 highway MPG</li>
+    <li>All-Wheel Drive (AWD) for superior handling</li>
+    <li>Optional third-row seating</li>
+    <li>Large touchscreen with BMW iDrive 7.0 system</li>
+  </ul>
+  <h2>BMW M4 Features</h2>
+  <ul>
+    <li>Engine: 3.0L Inline 6 Turbocharged</li>
+    <li>Horsepower: 473 hp</li>
+    <li>Price: $72,000</li>
+    <li>Fuel Efficiency: 16 city / 23 highway MPG</li>
+    <li>0-60 mph: 3.8 seconds</li>
+    <li>Rear-wheel drive with high-performance suspension</li>
+    <li>Active M Differential for optimal handling and traction</li>
+  </ul>
+  <h2>BMW i4 Features</h2>
+  <ul>
+    <li>Engine: Electric Motor (335 hp)</li>
+    <li>Price: $55,000</li>
+    <li>Range: Up to 300 miles on a full charge</li>
+    <li>Fast-charging: 80% charge in less than 40 minutes</li>
+    <li>Zero emissions and eco-friendly interior options</li>
+    <li>Integrated navigation and real-time traffic updates</li>
+    <li>Advanced driver assistance features, including collision warning and automatic braking</li>
+  </ul>
+  <h2>BMW 7 Series Features</h2>
+  <ul>
+    <li>Engine: 4.4L V8 Turbocharged</li>
+    <li>Horsepower: 523 hp</li>
+    <li>Price: $95,000</li>
+    <li>Fuel Efficiency: 18 city / 25 highway MPG</li>
+    <li>Luxury interior with premium leather seating and wood trim</li>
+    <li>Massaging and heated seats for ultimate comfort</li>
+    <li>BMW's Gesture Control technology for easy interaction with the infotainment system</li>
+  </ul>
+  <p>For more information visit BMW's Official Website <a href="https://www.bmw.com">https://www.bmw.com</a></p>
+    
+
+</body>
+</html>
